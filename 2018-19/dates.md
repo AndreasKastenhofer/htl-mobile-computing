@@ -129,12 +129,12 @@
 | 14. Mar. 2019  |mkurzmann  | What can you do with Microsoft's Cognitive Services?
 | 21. Mar. 2019  |L.Mistl    | What is Kotlin and why is it important for mobile developers?
 | 28. Mar. 2019  |fleibetseder|What is Markdown, why is it useful, and what cool things can you do with it?
-| 04. Apr. 2019  |AndreasKastenhofer|What are the OWASP Top 10 and why are they important for web development?
+| 04. Apr. 2019  |           |
 | 11. Apr. 2019  |           | **Written Exam**
 | 18. Apr. 2019  |           | **Easter Break (*Osterferien*)**
 | 25. Apr. 2019  | Staniel99 | open data
 | 02. May 2019   |michaelhitzker|What is Firebase and why is it important for mobile developers?
-| 09. May 2019   |           | **Replacement Lesson?**
+| 09. May 2019   |AndreasKastenhofer | What are the OWASP Top 10 and why are they important for web development?
 | 16. May 2019   |           |
 | 23. May 2019   |           |
 | 30. May 2019   |           | **Ascension (*Christi Himmelfahrt*)**
